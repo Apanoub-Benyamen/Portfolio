@@ -1,3 +1,5 @@
+🌐 **Language:** [English](README.md) | [العربية](README_AR.md)
+
 # Abanoub Benyamin | Business & Data Analytics
 
 ### Turning Data Into Direction.
